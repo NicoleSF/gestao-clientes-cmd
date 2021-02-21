@@ -1,0 +1,7 @@
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\bin\Debug\ProjetoGestão.exe.config
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\bin\Debug\ProjetoGestão.exe
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\bin\Debug\ProjetoGestão.pdb
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\obj\Debug\ProjetoGestão.csprojAssemblyReference.cache
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\obj\Debug\ProjetoGestão.csproj.CoreCompileInputs.cache
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\obj\Debug\ProjetoGestão.exe
+D:\Desktop\CarreiraUnica\ProjetoGestão\ProjetoGestão\obj\Debug\ProjetoGestão.pdb
